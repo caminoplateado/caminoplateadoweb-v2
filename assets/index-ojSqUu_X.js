@@ -34,9 +34,9 @@ const p = [{
         id: 2,
         titulo: "Tablero de Consumo Silver",
         tipo: "bi",
-        descripcion: "Dashboard de Power BI con participación de consumo por sectores.",
+        descripcion: "Dashboard de prueba",
         miniatura: "assets/thumb-bi.jpg",
-        url: "/assets/placeholder-bi.html"
+        url: "https://app.powerbi.com/reportEmbed?reportId=6947d174-f003-44b3-95ab-4ab242cb796a&autoAuth=true&ctid=3b7ba8f3-220d-438c-a3d5-207125f8ffd0"
     }, {
         id: 3,
         titulo: "Informe: Servicios Financieros Prov. Bs. As.",
