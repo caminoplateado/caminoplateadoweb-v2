@@ -27,7 +27,7 @@ const p = [{
         id: 1,
         titulo: "Distribución Demográfica Regional",
         tipo: "mapa",
-        descripcion: "Mapa interactivo sobre la densidad de población +50 en centros urbanos.",
+        descripcion: "Mapa interactivo sobre la densidad de población 60+ en centros urbanos.",
         miniatura: "assets/thumb-mapa.jpg",
         url: "/assets/placeholder-mapa.html"
     }, {
@@ -36,7 +36,7 @@ const p = [{
         tipo: "bi",
         descripcion: "Dashboard de prueba",
         miniatura: "assets/thumb-bi.jpg",
-        url: "https://app.powerbi.com/reportEmbed?reportId=6947d174-f003-44b3-95ab-4ab242cb796a&autoAuth=true&ctid=3b7ba8f3-220d-438c-a3d5-207125f8ffd0"
+        url: "https://app.powerbi.com/view?r=eyJrIjoiMDhjZGMwYTMtZDQ2My00ZjliLTk0ZGEtYmFhNzFhNTg1NTY3IiwidCI6IjNiN2JhOGYzLTIyMGQtNDM4Yy1hM2Q1LTIwNzEyNWY4ZmZkMCJ9"
     }, {
         id: 3,
         titulo: "Informe: Servicios Financieros Prov. Bs. As.",
