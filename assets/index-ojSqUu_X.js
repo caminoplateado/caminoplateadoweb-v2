@@ -39,9 +39,9 @@ const p = [{
         url: "/assets/placeholder-bi.html"
     }, {
         id: 3,
-        titulo: "Informe: Ciudades Amigables",
+        titulo: "Informe: Servicios Financieros Prov. Bs. As.",
         tipo: "pdf",
-        descripcion: "Análisis de infraestructura en los 3 casos testigo analizados.",
+        descripcion: "Análisis de posibilidades financieras para 60+",
         miniatura: "assets/thumb-pdf.jpg",
         url: "assets/camino_plateado_financiero_pba.pdf"
     }],
