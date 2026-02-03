@@ -43,7 +43,7 @@ const p = [{
         tipo: "pdf",
         descripcion: "Análisis de infraestructura en los 3 casos testigo analizados.",
         miniatura: "assets/thumb-pdf.jpg",
-        url: "/assets/informe-marzo.pdf"
+        url: "assets/camino_plateado_financiero_pba.pdf"
     }],
     a = (n, e = document) => e.querySelector(n);
 
